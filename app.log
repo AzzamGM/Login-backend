@@ -1,0 +1,2 @@
+2024-08-18T11:06:55.380+03:00  WARN 13180 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2d20h23m53s652ms299µs800ns).
+2024-08-18T11:15:07.522+03:00  WARN 13180 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m12s45ms480µs200ns).
